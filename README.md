@@ -1,2 +1,3 @@
 # fire_detection
-Forest fire data download link: https://pan.baidu.com/s/1YS1rw1nY1GkLzHYfPd-DDw 提取码: fde9 
+链接：https://pan.baidu.com/s/16iGI4zoekBlFQxT3iI-Kcw 
+提取码：7l8t
